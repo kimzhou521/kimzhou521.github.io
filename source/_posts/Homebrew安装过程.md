@@ -61,7 +61,6 @@ npm install -g npm@9.7.1   //更新
 7、输入 `hexo server`
 
 显示以下提示即可本地访问：http://localhost:4000/
-![Alt text](../../images/6c1bdd6927ddb0400ab35bff61fab6e5.png)
 
 ### 主题安装
 示例主题：butterfly - https://github.com/jerryc127/hexo-theme-butterfly/releases/tag/4.9.0
