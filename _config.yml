@@ -105,4 +105,4 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:kimzhou521/kimzhou521.github.io.git
-  branch: master
+  branch: main
