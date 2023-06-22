@@ -105,4 +105,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/kimzhou521/kimzhou521.github.io.git
-  branch: main
+  branch: gh-pages
